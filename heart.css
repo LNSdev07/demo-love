@@ -48,13 +48,13 @@
 }
 
 #imgleft{
-    background-image: url(/avatar-cap-doi-de-thuong-nam.jpg);
+    background-image: url(image/avatar-cap-doi-de-thuong-nam.jpg);
     width: 700px;
     height: 700px;
     background-size: cover
 }
 #imgright{
-    background-image: url(/avatar-cap-doi-de-thuong-nu.jpg);
+    background-image: url(image/avatar-cap-doi-de-thuong-nu.jpg);
     width: 700px;
     height: 700px;
     margin-left: 90px;
